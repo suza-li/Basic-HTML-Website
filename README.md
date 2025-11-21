@@ -28,7 +28,7 @@ These are the HTML only pages of the project.
 <img src="Screenshots/projects.png" width="400" height=auto>
 
 ### Article
-<img src="Screenshots/article.png" width="400" height=auto>
+<img src="Screenshots/articles.png" width="400" height=auto>
 
 ### Contact
 <img src="Screenshots/contact.png" width="400" height=auto>
